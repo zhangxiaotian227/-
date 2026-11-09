@@ -1,0 +1,13 @@
+outputs/
+work/
+*.fbx
+*.blend
+*.blend[0-9]
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+*.log
+__pycache__/
+.env
