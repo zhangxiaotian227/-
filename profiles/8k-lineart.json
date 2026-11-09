@@ -1,0 +1,49 @@
+{
+  "resolution": [
+    7680,
+    4320
+  ],
+  "format": "PNG RGBA",
+  "background": "transparent",
+  "line_rgb": [
+    0,
+    0,
+    0
+  ],
+  "engine": "BLENDER_EEVEE",
+  "crease_degrees": 145,
+  "use_smoothness": false,
+  "length_filter": false,
+  "contour_px": 5.4,
+  "structure_px": 3.2,
+  "hidden_near": {
+    "qi": [
+      1,
+      2
+    ],
+    "thickness_px": 2.8,
+    "alpha": 0.75,
+    "dash_px": 16,
+    "gap_px": 12
+  },
+  "hidden_far": {
+    "qi": [
+      3,
+      8
+    ],
+    "thickness_px": 2.2,
+    "alpha": 0.45,
+    "dash_px": 12,
+    "gap_px": 16
+  },
+  "perspective_lens_mm": 50,
+  "sensor_width_mm": 36,
+  "normalize_long_edge": 2,
+  "model_views": 14,
+  "variants": [
+    "正交实线",
+    "透视实线",
+    "正交结构虚线",
+    "透视结构虚线"
+  ]
+}
